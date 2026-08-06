@@ -9,6 +9,11 @@ on:
         description: 'Refresh only this collection (name as in manifest.json)'
         required: false
         type: string
+      force:
+        description: 'Force full re-conversion of collection (bypasses changed-only check)'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -29,13 +34,17 @@ jobs:
         id: refresh
         env:
           COLLECTION: ${{ inputs.collection || '' }}
+          FORCE: ${{ inputs.force || false }}
           COMMIT_MSG: ${{ runner.temp }}/commit-msg.txt
         run: |
           chmod +x tools/corpus-build
-          args=(--changed-only --output "$GITHUB_WORKSPACE" \
+          args=(--output "$GITHUB_WORKSPACE" \
                 --registry "$GITHUB_WORKSPACE/tools/registry/must_have.json" \
                 --verify --cache-dir "$RUNNER_TEMP/cache" \
                 --commit-msg-file "$COMMIT_MSG")
+          if [ "$FORCE" != "true" ]; then
+            args+=(--changed-only)
+          fi
           if [ -n "$COLLECTION" ]; then args+=(--collection "$COLLECTION"); fi
           set +e
           "$GITHUB_WORKSPACE/tools/corpus-build" "${args[@]}"
